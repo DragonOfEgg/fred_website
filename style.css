@@ -10,6 +10,7 @@ body{
   background-color: #1f2937;
   justify-content: space-around;
   width: 100%;
+  padding-bottom: 30px;
 }
 ul {
   list-style-type: none;
